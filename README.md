@@ -1,4 +1,4 @@
-# Streamlit Masterclass & Gemini Playground Project
+# Streamlit & Gemini Playground Project
 
 This project contains a fully commented Streamlit application demonstrating:
 - Barcode/QR scanning from uploaded images (`pyzbar`)
